@@ -1,0 +1,2 @@
+# gittraining
+K vymazání
